@@ -22,7 +22,9 @@ const jmartinezgr = {
 -  **Fact :** First solve the problem, then write the code :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmartinezgr&show_icons=true&bg_color=00000000&)<br>
+
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmartinezgr&show_icons=true&bg_color=00000000&)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <i>Follow me:</i><br>
 
