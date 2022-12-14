@@ -9,7 +9,7 @@ I've been interested in tech for as long as I can remember and this is why since
 const jmartinezgr = {
   pronouns : "he" | "him",
   code : [JavaScript, TypeScript, HTML, CSS, Python],
-  tools : [React, Angular, Django, SQLServer],
+  tools : [React, Angular, Django, SQLServer, Linux],
 }
 
 ```
