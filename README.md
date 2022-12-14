@@ -1,4 +1,4 @@
-### Juan Jose Martinez 
+### Hello there, I'm juan! 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I'm an 18 year old student and developer with a passion of designing; I love to think that coding is a tool to create a new wonderfull world, and everything I've done to this point has stuck to that philosophy, my main goal is to become a succesful full stack developer that's able to bring any idea to life.
 
