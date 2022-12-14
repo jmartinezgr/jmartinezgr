@@ -23,7 +23,7 @@ const jmartinezgr = {
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmartinezgr&show_icons=true&bg_color=00000000&)<br>
------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/juan-jose-martinez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
