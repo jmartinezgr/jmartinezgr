@@ -1,4 +1,4 @@
-### Hello there, I'm juan! 
+### Hello there, I'm juan! ✌️👨‍🎓
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Azul Degradado Encabezado Banner](https://user-images.githubusercontent.com/61917026/207811987-6e1c0a5c-bfef-480a-8102-f25d33209844.png)
@@ -21,7 +21,7 @@ const jmartinezgr = {
 ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, JavaScript
+-  **Languages :** Python, JavaScript 💪
 -  **Hobbies :** Videogames & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
