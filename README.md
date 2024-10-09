@@ -27,7 +27,7 @@ const jmartinezgr = {
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmartinezgr&show_icons=true&bg_color=00000000&)
+![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmartinezgr&show_icons=true&bg_color=00000000)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <i>Follow me:</i><br>
