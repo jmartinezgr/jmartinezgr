@@ -1,38 +1,44 @@
-### Hello there, I'm juan! ✌️👨‍🎓
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Juan José Martínez
 
-![Azul Degradado Encabezado Banner](https://user-images.githubusercontent.com/61917026/207811987-6e1c0a5c-bfef-480a-8102-f25d33209844.png)
+Backend & Data Engineer based in Medellín, Colombia — focused on scalable data
+processing, automation, and business-critical software systems.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I'm an 20 year old student and developer with a passion of designing; I love to think that coding is a tool to create a new wonderfull world, and everything I've done to this point has stuck to that philosophy, my main goal is to become a succesful full stack developer that's able to bring any idea to life.
+Currently building backend/data systems at **Innovación Analítica**
+(Azure Databricks, Python/PySpark, large-scale invoice validation). Before
+that: RPA/full-stack at TDP Solutions, full-stack at PITRANSFORM LLC.
 
-I've been interested in tech for as long as I can remember and this is why since I had the chance to learn some about this beatiful world I've never stopped loving to be a developer. My dream is one day take all of my learnings, obstacles and exptectations to use them to change the world
+**[Portfolio](https://jmartinezgr.com)** · **[LinkedIn](https://www.linkedin.com/in/juan-jose-martinez)** · **[Email](mailto:josemargri3@gmail.com)**
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-```js
-const jmartinezgr = {
-  pronouns : "he" | "him",
-  code : [JavaScript, TypeScript, HTML, CSS, Python],
-  tools : [React, Angular, Django, SQLServer, Linux],
-}
+---
 
-```
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+### Featured project — [AuditLake](https://github.com/jmartinezgr/retail-audit-platform)
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, JavaScript 💪
--  **Hobbies :** Videogames & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
+A layered (bronze / silver / gold) data audit engine for retail invoicing,
+built lakehouse-style — no Spark. Ingests multi-item invoices, runs them
+through a medallion pipeline, and produces an explainable audit trail: which
+rule ran, against what, and why it passed or failed.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The domain (a fictional retail chain) is invented so it can live in a public
+repo, but the pipeline shape and rule engine are modeled on real high-volume
+transactional-data auditing work.
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmartinezgr&show_icons=true&bg_color=00000000)
+`Python` · `FastAPI` · `Polars` · `Delta Lake` · `DuckDB` · `PostgreSQL` · `React` · `TypeScript`
+— 18 rules (built-in + user-defined), 97 tests over the pure domain layer.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<i>Follow me:</i><br>
+**[Live demo ↗](https://auditlake.jmartinezgr.com)** (free-tier backend, first
+request can take ~30s to wake up)
 
-<a href="https://www.linkedin.com/in/juan-jose-martinez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/_tinezj" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+---
 
-</div>
+### Stack
+
+| | |
+|---|---|
+| **Backend** | Python, FastAPI, Django REST, Node.js, NestJS, SQL |
+| **Data** | PySpark, Databricks, Delta Lake, Polars, Pandas, Parquet |
+| **Cloud / Infra** | Azure, Docker, Kubernetes, Redis, CI/CD |
+| **Automation / Frontend** | Selenium, SAP UI5, RPA, React, TypeScript |
+
+---
+
+Less magic. More systems.
